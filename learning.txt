@@ -1,1 +1,2 @@
-hdhhdhhhdhdh
+I have learnt how to create and manage my repos in git and github
+
